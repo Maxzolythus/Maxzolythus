@@ -12,7 +12,7 @@ I'm a Senior Software Engineer that has been a full stack developer creating, ma
 
 ## Call Me, Beep Me If You Wanna Reach Me
 
-[LinkedIn](linkedin.com/in/maxzferguson)
+[LinkedIn](https://www.linkedin.com/in/maxzferguson)
 
 <!--
 **Maxzolythus/Maxzolythus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
