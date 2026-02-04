@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a Senior Software Engineer that has been a full stack developer creating, maintaining, and deploying enterprise software for over 5 years. I'm passionate about full stack development, committed to understanding the linguistics of software, and collaborating with my peers to ask why we speak the way we do to root out inefficiencies and tech debt. A fun fact about me is that I not only like trains, but also training. I can deadlift over 600 pounds (which is over the number of shortline and regional rail services in the US).
+I'm a Senior Software Engineer that has been a full stack developer creating, maintaining, and deploying enterprise software for over 8 years. I'm passionate about full stack development, committed to understanding the linguistics of software, and collaborating with my peers to ask why we speak the way we do to root out inefficiencies and tech debt. A fun fact about me is that I not only like trains, but also training. I can deadlift over 600 pounds (which is over the number of shortline and regional rail services in the US).
 
 ## Skills
 
